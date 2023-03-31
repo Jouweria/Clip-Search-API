@@ -20,4 +20,4 @@ NUM OF FRAMES(N) -> 5
 
 ## DEMO
 
-![plot](./ScreenShots/.png)
+![Demo](./demo/demo.mp4)
